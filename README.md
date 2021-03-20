@@ -1,2 +1,6 @@
 # hello-world
-learning how to use Github
+
+Hi guy!
+
+Sangoroh here, I'm interested in building stuff.
+Currently learning java and using Github.
